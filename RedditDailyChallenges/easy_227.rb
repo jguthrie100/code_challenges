@@ -2,6 +2,8 @@
 
 # Challenge: https://www.reddit.com/r/dailyprogrammer/comments/3ggli3/20150810_challenge_227_easy_square_spirals/
 
+# PASSED - although gets very slow once the length of the spiral gets too big
+
 class Spiral
   attr_reader :size, :current_cell
   
