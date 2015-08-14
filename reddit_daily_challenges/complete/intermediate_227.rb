@@ -42,7 +42,7 @@ class Matrix
   end
 end
 
-file = File.new("input_files/intermediate_227_input1.txt", "r")
+file = File.new("../input_files/intermediate_227_input1.txt", "r")
 
 height, width = file.gets.chomp.split(" ")
 

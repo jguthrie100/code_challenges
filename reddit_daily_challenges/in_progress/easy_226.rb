@@ -1,6 +1,6 @@
 #!/usr/bin/ruby
 
-# Challenge: https://www.reddit.com/r/dailyprogrammer/comments/3fmke1/20150803_challenge_226_easy_adding_fractions/
+# Challenge: Easy #226: https://www.reddit.com/r/dailyprogrammer/comments/3fmke1/20150803_challenge_226_easy_adding_fractions/
 
 # NOT FINISHED
 
